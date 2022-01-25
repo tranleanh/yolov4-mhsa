@@ -3,11 +3,14 @@ Object Detection using YOLOv4 + Multi Head Self Attention
 The project has been updated regularly...
 
 #### 1. CSP-Dark Block vs MHSA-Dark Block
-<img src="docs/conventional_vs_mhsa.png" width="800">
-
+<p align="center">
+  <img height="400" src="docs/conventional_vs_mhsa.png">
+</p>
 
 #### 2. MHSA-Dark Block's Layers
-<img src="docs/mhsa_block.png" width="800">
+<p align="center">
+  <img height="400" src="docs/mhsa_block.png">
+</p>
 
 ## To-do List
 - [x] Create README
@@ -21,3 +24,8 @@ The project has been updated regularly...
 ## References
 - Paper: [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/papers/Zhang_ViT-YOLOTransformer-Based_YOLO_for_Object_Detection_ICCVW_2021_paper.pdf)
 - https://github.com/bubbliiiing/yolov4-keras
+
+
+Good luck.
+
+LA Tran
