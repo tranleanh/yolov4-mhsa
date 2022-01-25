@@ -24,6 +24,8 @@ The project has been updated regularly...
 ## References
 - Paper: [ViT-YOLO:Transformer-Based YOLO for Object Detection](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/papers/Zhang_ViT-YOLOTransformer-Based_YOLO_for_Object_Detection_ICCVW_2021_paper.pdf)
 - https://github.com/bubbliiiing/yolov4-keras
+- https://github.com/hunglc007/tensorflow-yolov4-tflite
+- https://github.com/tranleanh/darkeras-yolov4
 
 
 Good luck.
